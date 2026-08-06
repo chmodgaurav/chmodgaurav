@@ -24,6 +24,8 @@ I'm passionate about building intelligent applications using **Generative AI**, 
 * Python
 * JavaScript
 * SQL
+* HTML5
+* CSS3
 
 ### AI & Machine Learning
 
@@ -54,29 +56,6 @@ I'm passionate about building intelligent applications using **Generative AI**, 
 * Git
 * GitHub
 
----
-
-## 🚀 Current Focus
-
-* 🤖 Multi-Agent AI Systems
-* 🧠 Retrieval-Augmented Generation (RAG)
-* 🔗 Model Context Protocol (MCP)
-* ⚙️ AI Workflow Automation
-* 📚 Open Source AI Projects
-
----
-
-## 📈 GitHub Stats
-
-> Replace **chmodgaurav** with your GitHub username.
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chmodgaurav&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chmodgaurav&theme=tokyonight)
-```
 
 ---
 
@@ -92,9 +71,9 @@ I'm passionate about building intelligent applications using **Generative AI**, 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* 💼 LinkedIn: https://www.linkedin.com/in/chmodgaurav/
 * 🌐 Portfolio: https://YOUR_PORTFOLIO
-* 📧 Email: YOUR_EMAIL
+* 📧 Email: chmodgaurav@gmail.com
 
 ---
 
