@@ -71,8 +71,8 @@ I'm passionate about building intelligent applications using **Generative AI**, 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/chmodgaurav/
-* 🌐 Portfolio: https://YOUR_PORTFOLIO
+* 💼 LinkedIn: [chmodgaurav]https://www.linkedin.com/in/chmodgaurav/
+* 🌐 Portfolio: [GauravTech](https://gauravtech.onrender.com/)
 * 📧 Email: chmodgaurav@gmail.com
 
 ---
